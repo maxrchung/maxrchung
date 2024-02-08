@@ -1,4 +1,6 @@
-### Hi there 👋
+Yo 🪀
+
+I'm kind of working on web and game stuff.
 
 <!--
 **maxrchung/maxrchung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
